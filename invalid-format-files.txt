@@ -1,0 +1,2 @@
+D:\github\blog-plateform-risk-control\src\posts\distributed-file\10-1-1-smooth-upgrade-strategy.md
+D:\github\blog-plateform-risk-control\src\posts\distributed-file\10-1-stability-guarantee.md
